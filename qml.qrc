@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/Passwords.qml</file>
+        <file>qml/RequestKey.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>qml/InputField.qml</file>
+        <file>qml/PasswordGenerator.qml</file>
+        <file>qml/RequestPassword.qml</file>
+        <file>qml/SetNewPassword.qml</file>
+        <file>qml/AboutProgram.qml</file>
+        <file>qml/CustomPopup.qml</file>
+        <file>qml/CustomButton.qml</file>
+        <file>qml/Theme.qml</file>
+        <file>qml/ExportFromQR.qml</file>
+        <file>qml/ImportFromQR.qml</file>
+        <file>qml/RequestKeyFromQr.qml</file>
+        <file>qml/RequestKeyFromFile.qml</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
